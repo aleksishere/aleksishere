@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi there 👋
+#### 🏫 Student of the WSB Merito University in Poznań, Poland!
+#### 🌱 I’m currently learning JavaScript with help of <a href=https://www.theodinproject.com/>Odin Project</a>
 
 <!--
 **aleksishere/aleksishere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
