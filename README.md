@@ -1,4 +1,4 @@
 ## Hi there 👋
 
-#### Projects:
+### Projects:
 [rapdle.pl](https://rapdle.pl/) - Polish music guessing game made. <br/>
